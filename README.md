@@ -1,27 +1,30 @@
-# 🔐 Password Generator
+# 🔐 Advanced Password Generator
 
-A sleek and responsive **React + Vite + Tailwind CSS** based password generator that lets users generate secure passwords with customizable options.
+A beautifully designed **React + Vite + Tailwind CSS** based **Password Generator** with live strength analysis, copy-to-clipboard feedback, and modern UI.
 
+## 🌐 Live Demo
 
-## 🚀 Live Demo
-👉 [Click here to try it live](https://suryanshgehlot.github.io/password-generator)
+👉 [Try it Live on GitHub Pages](https://suryanshgehlot.github.io/password-generator)
 
-## 🛠️ Features
-- Choose password **length** (5 to 30 characters)
-- Option to include:
-  - ✅ Numbers
-  - ✅ Special characters
-- Easy **copy to clipboard**
-- Clean, responsive **UI with Tailwind CSS**
+## ✨ Features
 
-## 📦 Tech Stack
-- ⚛️ React
-- ⚡ Vite
-- 🎨 Tailwind CSS
+- ✅ Adjustable **password length** (5–30 characters)
+- ✅ Options to **include numbers** and **special characters**
+- ✅ Live **password strength meter**
+- ✅ One-click **copy to clipboard** with animation
+- ✅ Clean, dark-themed **Tailwind CSS** UI
+- ✅ **Responsive** on all screen sizes
 
-## 📂 Getting Started
+## 🧰 Tech Stack
 
-### 1. Clone the repository
+- ⚛️ React 19
+- ⚡ Vite 6
+- 🎨 Tailwind CSS 4
+
+## 📦 Installation
+
 ```bash
 git clone https://github.com/SuryanshGehlot/password-generator.git
 cd password-generator
+npm install
+npm run dev
